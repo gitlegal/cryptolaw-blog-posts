@@ -1,3 +1,5 @@
+Crypto Miner's Trust
+
 One of my favorite use cases for what someone might call “smart law” is that of the trust. People are most familiar with trusts when it comes to estate planning. This is where we get the term “trust fund babies” or my favorite “trustafarians” (see stoners at expensive liberal arts colleges with dreadlocks and BMWs).  But, I digress.
 
 A trust is when a legal relationship is created at the direction of of a person to another person, by placing their property, subject to certain duties or fiduciary requirements, to use and protect it for the benefit of others. What is crazy is that you can even transfer your own property (as you will learn sooner: cryptocurrency and mining equipment) to yourself as Trustee of the trust that only benefits you. This is called a grantor trust or an inter vivos trust which is typically used in estate planning.
